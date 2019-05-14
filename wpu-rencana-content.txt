@@ -3,5 +3,6 @@ RENCANA KONTEN WPU
   *ES6
   *Framework Javascript
 - PHP Frameworks
+- Struktur Data Dasar 
 - Codeigniter
 - Laravel
