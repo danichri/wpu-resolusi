@@ -1,6 +1,8 @@
 RENCANA KONTEN WPU
 - Javascript
   *Vue
+  *Angular
+  *React
 - PHP Frameworks
 - Struktur Data Dasar 
 - Codeigniter
